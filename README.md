@@ -29,7 +29,7 @@ References offer a convenient and safe alternative to pointers, facilitating eff
 ---
 
 ## Object-Oriented Programming (OOP) Concepts
-
+Object-Oriented Programming (OOP) is a programming paradigm that focuses on organizing code into objects, which encapsulate data and behavior. Key concepts of OOP include:
 ### Classes
 
 Classes epitomize the essence of OOP, encapsulating data and behavior into cohesive units. They furnish blueprints for object creation, enabling code reusability and abstraction.
@@ -53,7 +53,7 @@ Exception handling provides a robust mechanism for managing runtime errors and e
 ---
 
 ## C++ Standard Library (std)
-
+The Standard Template Library (STL) is a powerful part of the C++ Standard Library that provides generic algorithms and data structures. It consists of several components:
 ### IOStreams
 
 IOStreams furnish a comprehensive framework for handling input/output operations, encompassing console interactions and file manipulations.
